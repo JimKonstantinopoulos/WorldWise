@@ -39,13 +39,13 @@ Track the cities and countries you have visited so far. Using an authentication 
     ```
     npm i
     ```
-4. **Start the development server**
-    ```
-    npm run dev
-    ```
-5. **Start the Fake Server**
+4. **Start the Fake Server**
     ```
     npm run server
+    ```
+5. **Start the development server**
+    ```
+    npm run dev
     ```
 
 # React + Vite
