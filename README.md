@@ -28,7 +28,7 @@ Track the cities and countries you have visited so far. Using an authentication 
 # How to use
 1. **Clone the repository**
     ```
-    git clone https://github.com/Kiyomarthi/worldwise.git
+    git clone https://github.com/JimKonstantinopoulos/WorldWise.git
     ```
 2. **Navigate to the project directory**
     ```
