@@ -17,7 +17,7 @@ Track the cities and countries you have visited so far. Using an authentication 
 
 # State Managment
 <ol>
-  <li>ContextAPI</li>
+  <li>Context API</li>
 </ol>
 
 # Styling
