@@ -15,6 +15,11 @@ Track the cities and countries you have visited so far. Using an authentication 
   <li>React Router</li>
 </ol>
 
+# State Managment
+<ol>
+  <li>Context API</li>
+</ol>
+
 # Styling
 <ol>
   <li>Css Modules</li>
