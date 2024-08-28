@@ -13,6 +13,7 @@ Track the cities and countries you have visited so far. Using an authentication 
   <li>React</li>
   <li>Next.Js</li>
   <li>React Router</li>
+  <li>Leaflet</li>
 </ol>
 
 # State Managment
@@ -22,7 +23,7 @@ Track the cities and countries you have visited so far. Using an authentication 
 
 # Styling
 <ol>
-  <li>Css Modules</li>
+  <li>CSS Modules</li>
 </ol>
 
 # Build Tools and Package Managers
