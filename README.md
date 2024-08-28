@@ -23,7 +23,7 @@ Track the cities and countries you have visited so far. Using an authentication 
 
 # Styling
 <ol>
-  <li>Css Modules</li>
+  <li>CSS Modules</li>
 </ol>
 
 # Build Tools and Package Managers
