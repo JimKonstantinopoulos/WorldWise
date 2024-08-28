@@ -13,7 +13,7 @@ Track the cities and countries you have visited so far. Using an authentication 
   <li>React</li>
   <li>Next.Js</li>
   <li>React Router</li>
-  <li>Leaflet<li>
+  <li>Leaflet</li>
 </ol>
 
 # State Managment
