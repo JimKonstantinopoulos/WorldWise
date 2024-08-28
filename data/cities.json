@@ -1,213 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
+      "id": "ec31",
+      "cityName": "Tarazona de la Mancha",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-28T14:03:31.634Z",
+      "notes": "adsasdasd",
+      "position": {
+        "lat": "39.2492708462234",
+        "lng": "-1.9061279296875002"
+      }
+    },
+    {
+      "id": "0262",
+      "cityName": "Castelo Branco",
       "country": "Portugal",
       "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "date": "2024-08-28T14:03:53.317Z",
+      "notes": "dfdfdf",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "981d",
-      "cityName": "Barbolla",
-      "country": "Spain",
-      "emoji": {
-        "type": "img",
-        "key": null,
-        "ref": null,
-        "props": {
-          "src": "https://flagcdn.com/24x18/es.png",
-          "alt": "flag"
-        },
-        "_owner": null,
-        "_store": {}
-      },
-      "date": "2024-08-28T12:16:56.930Z",
-      "notes": "TEST",
-      "position": {
-        "lat": "41.33145127732965",
-        "lng": "-3.6749267578125004"
+        "lat": "39.7240885773337",
+        "lng": "-7.415771484375001"
       }
     },
     {
-      "id": "cbea",
-      "cityName": "Kil’dinstroy",
-      "country": "Russian Federation (the)",
-      "emoji": {
-        "type": "img",
-        "key": null,
-        "ref": null,
-        "props": {
-          "src": "https://flagcdn.com/24x18/ru.png",
-          "alt": "flag"
-        },
-        "_owner": null,
-        "_store": {}
-      },
-      "date": "2024-08-28T12:29:47.128Z",
-      "notes": "dfdfdfdf",
+      "id": "07a7",
+      "cityName": "Braganca",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-08-28T14:03:55.926Z",
+      "notes": "dfdfdfdfdf",
       "position": {
-        "lat": "68.69650487125402",
-        "lng": "33.28857421875001"
-      }
-    },
-    {
-      "id": "3405",
-      "cityName": "Kil’dinstroy",
-      "country": "Russian Federation (the)",
-      "emoji": {
-        "type": "img",
-        "key": null,
-        "ref": null,
-        "props": {
-          "src": "https://flagcdn.com/24x18/ru.png",
-          "alt": "flag"
-        },
-        "_owner": null,
-        "_store": {}
-      },
-      "date": "2024-08-28T12:30:18.821Z",
-      "notes": "dfdffdf",
-      "position": {
-        "lat": "68.69650487125402",
-        "lng": "33.28857421875001"
-      }
-    },
-    {
-      "id": "b96b",
-      "cityName": "Kil’dinstroy",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-08-28T12:30:52.293Z",
-      "notes": "dfdfd",
-      "position": {
-        "lat": "68.69650487125402",
-        "lng": "33.28857421875001"
-      }
-    },
-    {
-      "id": "8b54",
-      "cityName": "Badenas",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-28T12:39:26.953Z",
-      "notes": "Ok",
-      "position": {
-        "lat": "41.13315883477399",
-        "lng": "-1.1315917968750002"
-      }
-    },
-    {
-      "id": "2e0a",
-      "cityName": "Royuela",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-28T12:40:05.947Z",
-      "notes": "",
-      "position": {
-        "lat": "40.371658891506094",
-        "lng": "-1.5325927734375002"
-      }
-    },
-    {
-      "id": "2d02",
-      "cityName": "Folgoso do Courel",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-25T12:40:05.000Z",
-      "notes": "sdsdsdds",
-      "position": {
-        "lat": "42.5611728553181",
-        "lng": "-7.218017578125001"
-      }
-    },
-    {
-      "id": "2410",
-      "cityName": "Fontanar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-28T12:41:15.507Z",
-      "notes": "ghgh",
-      "position": {
-        "lat": "40.72228267283148",
-        "lng": "-3.1640625000000004"
-      }
-    },
-    {
-      "id": "9f4d",
-      "cityName": "Carboneras de Guadazaon",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-28T12:41:50.500Z",
-      "notes": "dgdfg",
-      "position": {
-        "lat": "39.842286020743394",
-        "lng": "-1.7907714843750002"
-      }
-    },
-    {
-      "id": "7788",
-      "cityName": "Carboneras de Guadazaon",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-28T12:44:43.977Z",
-      "notes": "dgfgfg",
-      "position": {
-        "lat": "39.842286020743394",
-        "lng": "-1.7907714843750002"
-      }
-    },
-    {
-      "id": "e1df",
-      "cityName": "Carboneras de Guadazaon",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-28T12:46:26.682Z",
-      "notes": "fgfgfg",
-      "position": {
-        "lat": "39.842286020743394",
-        "lng": "-1.7907714843750002"
-      }
-    },
-    {
-      "id": "8222",
-      "cityName": "Sauvagnat",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-08-28T12:46:38.992Z",
-      "notes": "hjhjhj",
-      "position": {
-        "lat": "45.73685954736049",
-        "lng": "2.6367187500000004"
+        "lat": "41.918628865183045",
+        "lng": "-6.679687500000001"
       }
     }
   ]
