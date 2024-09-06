@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 import { createContext, useEffect, useContext, useReducer } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://worldwise-production.up.railway.app";
 
 const flagEmojiToPNG = (flag) => {
   const countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
