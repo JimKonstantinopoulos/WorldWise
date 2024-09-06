@@ -32,6 +32,11 @@ Track the cities and countries you have visited so far. Using an authentication 
   <li>Vite</li>
 </ol>
 
+# Deployment
+<ol>
+  <li>Railway</li>
+</ol>
+
 # How to use
 1. **Clone the repository**
     ```
