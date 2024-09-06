@@ -1,5 +1,5 @@
 # WordWise
-Track the cities and countries you have visited so far. Using an authentication system to log in, select each city via a user friendly environment, using a clickable map and store them into an interactive list with the ability to comment, delete and track each city back on the map. (In order to log into the app use the fake user credentials: Email ==> jack@example.com, Password ==> 12345). This app does not have a hosting online server yet, so if you wanna use this app please download it and follow the instructions below.
+Track the cities and countries you have visited so far. Using an authentication system to log in, select each city via a user friendly environment, using a clickable map and store them into an interactive list with the ability to comment, delete and track each city back on the map. (In order to log into the app use the fake user credentials: Email ==> jack@example.com, Password ==> 12345).
 
 # Languages
 <ol>
