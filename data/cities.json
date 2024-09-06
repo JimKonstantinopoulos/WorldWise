@@ -1,39 +1,27 @@
 {
   "cities": [
     {
-      "id": "ec31",
-      "cityName": "Tarazona de la Mancha",
+      "id": "98e5",
+      "cityName": "Santa Maria la Real de Nieva",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-08-28T14:03:31.634Z",
-      "notes": "adsasdasd",
+      "date": "2024-09-03T13:57:28.281Z",
+      "notes": "",
       "position": {
-        "lat": "39.2492708462234",
-        "lng": "-1.9061279296875002"
+        "lat": "40.979898069620155",
+        "lng": "-4.482421875000001"
       }
     },
     {
-      "id": "0262",
-      "cityName": "Castelo Branco",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-08-28T14:03:53.317Z",
-      "notes": "dfdfdf",
+      "id": "2d16",
+      "cityName": "Rethymno",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-09-03T17:04:38.283Z",
+      "notes": "e;kfjhgdfglkdfj",
       "position": {
-        "lat": "39.7240885773337",
-        "lng": "-7.415771484375001"
-      }
-    },
-    {
-      "id": "07a7",
-      "cityName": "Braganca",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-08-28T14:03:55.926Z",
-      "notes": "dfdfdfdfdf",
-      "position": {
-        "lat": "41.918628865183045",
-        "lng": "-6.679687500000001"
+        "lat": "35.35657620196124",
+        "lng": "24.47891235351563"
       }
     }
   ]

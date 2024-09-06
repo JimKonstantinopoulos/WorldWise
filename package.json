@@ -1,5 +1,5 @@
 {
-  "name": "globemark",
+  "name": "worlwise",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "server": "json-server --watch data/cities.json --port 9000"
+    "server": "json-server --watch data/cities.json --port 9000",
+    "start": "npm run server"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.2",
