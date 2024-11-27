@@ -10,7 +10,7 @@ Track the cities and countries you have visited so far. Using an authentication 
 
 # Libraries and Frameworks
 <ol>
-  <li>React</li>
+  <li>React.Js</li>
   <li>Next.Js</li>
   <li>React Router</li>
   <li>Leaflet</li>
