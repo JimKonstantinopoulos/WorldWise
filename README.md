@@ -1,4 +1,4 @@
-#🚨 Important Notice 🚨
+# 🚨 Important Notice 🚨
 ⚠️ The app's data-saving functionality is currently temporarily unavailable.
 I'm working on resolving this issue and will restore full functionality as soon as possible.
 
